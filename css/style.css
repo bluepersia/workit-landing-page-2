@@ -181,6 +181,12 @@ body {
     padding-left: 0;
 }
 
+#title 
+{
+    max-width: 343px;
+    margin-left: auto;
+    margin-right: auto;
+}
 
 #header__bg-curved 
 {
@@ -354,8 +360,6 @@ body {
     #title 
     {
         max-width: 530px;
-        margin-left: auto;
-        margin-right: auto;
     }
 
     #header__bg-pattern-1 
@@ -467,6 +471,10 @@ body {
     #header 
     {
         padding: 3.16em 11.4% 0;
+    }
+
+    #title {
+        max-width: 635px;
     }
     #header__bg-pattern-1 
     {
