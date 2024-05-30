@@ -1,0 +1,23 @@
+:root 
+{
+    --c-DarkPurple: #24053E;
+    --c-DavysGrey: #584D62;
+    --c-Euca:#44FFA1;
+    --c-GhostWhite: #FCF8FF;
+    --c-White: white;
+}
+
+body {
+    margin: 0;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+* :first-child {
+    margin-top: 0;
+}
+* :last-child {
+    margin-bottom: 0;
+}
